@@ -1,1 +1,3 @@
 # Exploratory-Data-Analysis-with-2020-FFIEC-Census-Reports-for-Jersey-City
+
+Jersey City is a diverse community made up of people of all ages, races, nationalities, and socioeconomic backgrounds. This is reflected across the different neighborhoods that exist across the city. The purpose of this project is to use a computer program to conduct a data analysis on income within wards in Jersey City. In this project, indicators will be used to determine an analysis of an individual ward's income, using data gathered from the 2020 FFIEC Census Reports for Population, Income and Housing Units in Jersey City. When the results are gathered, the data will be analyzed to find existing trends related to income between each ward.
